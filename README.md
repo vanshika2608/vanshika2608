@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">Building things, breaking things, and figuring it all out</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshika2608" alt="vanshika2608" /></a> </p>
-
 - 🌱 I’m currently learning **Generative AI through IBM**
 
 <h3 align="left">Connect with me:</h3>
