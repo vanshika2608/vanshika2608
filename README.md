@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vanshika</h1>
-<h3 align="center">Building stuff, breaking stuff, and figuring it all out 😄</h3>
+<h1 align="center">Hey, I'm Vanshika</h1>
+<h3 align="center">Building stuff, breaking stuff, and figuring it all out </h3>
 
-<p align="center">🌱 Currently diving into Generative AI with IBM & building projects I enjoy!</p>
+<p align="center">Currently diving into Generative AI with IBM & building projects I enjoy!</p>
 
 ---
 
