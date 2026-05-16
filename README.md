@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vanshika</h1>
-<p align="center">Currently diving into Generative AI & building projects I like</p>
+<p align="center">building projects I like</p>
 
 ---
 
