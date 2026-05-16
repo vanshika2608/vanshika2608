@@ -3,13 +3,10 @@
 
 ---
 
-### 🧩 Connect with me:
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/vanshika-deswal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/vanshikadeswal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
   <a href="https://instagram.com/vanshika.a__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -24,7 +21,7 @@
 
 ---
 
-### 🛠️ Languages & Tools:
+### Languages & Tools:
 <p align="left">
   <!-- Add/Remove logos as needed -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
